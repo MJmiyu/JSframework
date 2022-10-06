@@ -1,0 +1,24 @@
+.Nav {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+  margin-bottom: 25px;
+}
+
+.Nav > a {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #25eb0d;
+}
+
+.Nav > a:hover {
+  color: #1aab0a;
+}
+
+.Body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

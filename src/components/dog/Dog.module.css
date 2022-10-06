@@ -1,0 +1,24 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  min-width: 300px;
+  border: solid 3px #25eb0d;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #888;
+  padding: 10px;
+}
+
+.Name {
+  font-weight: bolder;
+  font-size: 20px;
+  color: #25eb0d;
+  text-align: center;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.Description {
+  padding: 15px;
+}
